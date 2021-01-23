@@ -4,6 +4,8 @@
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 ![C#](https://img.shields.io/badge/Made%20With-C%23-blue)
 ![C++](https://img.shields.io/badge/Made%20With-C%2B%2B-blue)
+
+#### [*Click Here For TXT Documentation*](https://pastebin.com/YwA3JJx2)
 ---
 ### Hosted+
 #### How To Add Hosted+ To Your Project:
