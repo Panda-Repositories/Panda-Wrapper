@@ -278,7 +278,7 @@ local mt = getrawmetatable(game)
         end
         return old(t, k)
     end)
-    )");
+    )"); //Lmfao the Init Script
 	ExecuteScript(DownloadURL("https://raw.githubusercontent.com/SkieAdmin/PandaHub/master/PandaWelcome.lua").c_str()); //Panda Official
 	ExecuteScript("game.StarterGui:SetCore('SendNotification', {Duration = 4; Title='Exploit Loaded'; Text='Successfully Loaded'})"); // No Reason to Add
 	DrawingAPI::InitiateDrawingAPI(Vanilla);
